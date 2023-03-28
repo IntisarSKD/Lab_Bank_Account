@@ -14,7 +14,7 @@ public class Main {
         System.out.println(account.getDateOfBirth());
         account.setAccountNumber("287452");
         System.out.println(account.getAccountNumber());
-        account.setBalance(5);
+        account.setBalance(0);
         System.out.println(account.getBalance());
 
         // Deposit some money
